@@ -1,3 +1,3 @@
 # poesiederue
-Un site dedié à la poesie de ru 
+Un site dedié à la poesie de rue 
 full angularJS
